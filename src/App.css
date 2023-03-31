@@ -1,0 +1,14 @@
+.container-fluid {
+  background-color: #16a085;
+  height: 100vh;
+}
+
+.calculator {
+  background-color: #1e272e;
+  min-width: 300px;
+  max-width: 400px;
+}
+
+.main-row {
+  height: 100vh;
+}
